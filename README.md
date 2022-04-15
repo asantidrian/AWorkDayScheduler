@@ -25,3 +25,4 @@ The following animation show the web application's appearance and functionality:
 ## Contact
 Email: asantidrian83@gmail.com
 Project link: https://github.com/asantidrian/AWorkDayScheduler
+Website link: https://asantidrian.github.io/AWorkDayScheduler/
